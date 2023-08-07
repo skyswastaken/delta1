@@ -1,2 +1,3 @@
 # delta1
-bw cheat 
+# roblox bedwars cheat currency in development.
+# made by yza9000#9826
