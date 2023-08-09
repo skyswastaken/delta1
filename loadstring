@@ -1,1 +1,7 @@
+---Main
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skyswastaken/delta1/main/MainScript"))()
+--Lite
+
+loadstring(game:HttpGet(""))()
+
 
